@@ -20,7 +20,8 @@ using HTML, CSS, and JavaScript.
 - Least recently used items are removed when capacity is full
 
 ## Screenshot
-(Add screenshot here)
+![alt text](lrucache.png)
+
 
 ## Author
 Alekhya Lokula
