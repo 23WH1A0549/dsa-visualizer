@@ -66,10 +66,10 @@ It is designed to help learners understand how these algorithms work **step-by-s
 
 ## **Author**
 **Alekhya Lokula** – Full Stack & DSA Enthusiast   
-- GitHub: [Your GitHub](https://github.com/)  
+ 
 
 ---
 
 ## **Live Demo**
-You can open the `index.html` file in a browser to start the visualizer.  
-Click **LRU Cache** or **Sorting Algorithms** from the main menu to explore the visualizations.
+https://23wh1a0549.github.io/dsa-visualizer/
+
